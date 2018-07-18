@@ -16,7 +16,7 @@ A robust Discord bot using the JDA library for various Minecraft functions.
 
 #### Utility Commands:
 - `^avatar [mention]` - Lists the available chat codes.
-- `^botinfo` - Fetches the stats of a server.
+- `^botinfo` - displays bot information.
 - `^bugreport [name of bug]` - Looks up an item.
 - `^createinvite` - create a permanent invite.
 - `serverinfo` - displays server information.
