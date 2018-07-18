@@ -23,14 +23,15 @@ A robust Discord bot using the JDA library for various Minecraft functions.
 - `userinfo` - displays user information.
 - `weather [city]` - displays weather of city.
 
-#### Player Commands:
-- `&uuid <username> [date]` - Gets the UUID of a player.
-- `&history <username|uuid> [date]` - Gets the name history of a player.
-- `&avatar <username|uuid> [date] [overlay?]` - Gets the avatar of a player.
-- `&head <username|uuid> [date] [overlay?]` - Gets the head render of a player.
-- `&body username|uuid> [date] [overlay?]` - Gets the body render of a player.
-- `&skin <username|uuid> [date]` - Gets the skin of a player.
-- `&cape <username|uuid> [date]` - Gets the cape of a player.
+#### Administration Commands:
+- `^ban [mention] [reason]`
+- `^kick [mention] [reason]`
+- `^purge [2 - 100]`
+- `^mute [mention]`
+- `^unmute [mention]`
+- `^tempmute [mention] [1s/1m/1h/1d]`
+- `^addrole [mention] [name of role]`
+- `^removerole [mention] [name of role]`
 
 #### Soundboard Commands:
 - `^airhor`
@@ -41,7 +42,7 @@ A robust Discord bot using the JDA library for various Minecraft functions.
 - `^troll`
 - `^trombone`
 
-### Fun Commands:
+### Fun/Games Commands:
 - `^8ball [question]`
 - `^cat`
 - `^cry [mention] or no mention`
@@ -59,3 +60,13 @@ A robust Discord bot using the JDA library for various Minecraft functions.
 - `^rps <rock|paper|scissors>`
 - `^pat [mention]`
 - `^slap [mention]`
+
+### Music Commands:
+- `^play/^p [yt Url or Search]`
+- `^pause`
+- `^Stop`
+- `^skip/^s`
+- `^resume`
+- `^queue/^q`
+- `^nowplaying/^np`
+- `^volume [1 - 5]`
