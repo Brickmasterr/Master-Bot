@@ -72,3 +72,5 @@ Master Bot is bot that use Discord.js as the library. Master Bot has many comman
 - `^queue/^q`
 - `^nowplaying/^np`
 - `^volume [1 - 5]`
+
+[![Discord Bots](https://discordbots.org/api/widget/464511870993432578.svg)](https://discordbots.org/bot/464511870993432578)
