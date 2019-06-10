@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center"><a href="http://masterbot.esy.es/"><img src="https://cdn.discordapp.com/avatars/464511870993432578/68412b7687e9b61d002fa5461e5b2628.png?size=128)"></a></p><br>
+<p align="center"><a href="http://masterbot.esy.es/"><img src="https://cdn.discordapp.com/avatars/464511870993432578/9045468c0b5d39aa915e45282e70b0ab.png?size=2048)"></a></p><br>
 <a href="http://masterbot.esy.es/discord"><img src="https://img.shields.io/discord/465236219463204874.svg?style=for-the-badge"></a>
 <p align="center">MasterBot is mutli-purpose Discord Bot with over 3,000 guilds<br>
 Join <a href="http://masterbot.esy.es/discord">Discord</a> for Support</p>
